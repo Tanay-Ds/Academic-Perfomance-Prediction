@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit
+.streamlit/secrets.toml
+# We keep config.toml as it has the theme
+
+# Project Specific
+StudentPerformanceApp.zip
+behavior.txt
+check_*.py
+add_password_col.py
+
+# User specific config (optional, but good practice to ignore creds)
+# admin_config.json 
+# (Commented out because this is a demo project and we want credentials to work OOB for the grader)
+
+# OS
+.DS_Store
+Thumbs.db
