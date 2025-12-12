@@ -1,0 +1,12 @@
+Student_Name,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender,Predicted_Score,Risk_Level,Hours_Studied/Week
+Ishika jain,45,Low,High,No,2,39,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Far,Female,68.32,Medium Risk,23.0
+Shivam,59,Low,Medium,No,7,72,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,80.19,Low Risk,30.0
+Shivam Malviy,53,Low,Medium,No,9,48,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,73.03,Medium Risk,16.0
+Tanay,72,Low,High,No,7,74,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,81.1,Low Risk,22.0
+mahi,57,Low,High,No,8,58,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,72.26,Medium Risk,14.0
+mahi,57,Low,High,No,5,58,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,66.58,Medium Risk,14.0
+mahi,60,Low,High,No,5,64,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,76.9,Low Risk,24.0
+XYZ,43,Low,High,No,6,55,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,67.32,Medium Risk,14.0
+XYZ2,39,Low,High,No,8,52,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,66.61,Medium Risk,7.0
+harsh,75,Low,High,No,7,70,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,74.83,Medium Risk,30.0
+harsh,75,Low,High,No,8,70,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,76.34,Low Risk,30.0
